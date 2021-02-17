@@ -20,4 +20,4 @@ I am a person with a strong personality, who besides looking to the future, love
 ## Knowledge
 
 **Languages**
-[![JavaScript](https://github.com/zangassis/technology-icons/blob/main/ccsharp.png)](https://github.com/ildaneta/)
+[![C#](https://github.com/zangassis/technology-icons/blob/main/ccsharp.png)](https://github.com/ildaneta/)
