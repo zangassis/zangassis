@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 I study web development with a focus on Javascript and its frameworks like React and Next.js.
 I'm also always moving here and there in the css of some layout 👨🏻‍💻</strong>
 
-<strong💬 Contact me: assiszang@gmail.com</strong
+<strong>💬 Contact me: assiszang@gmail.com</strong
