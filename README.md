@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a person with a strong personality, who besides looking to the future, loves to go back to the past and admire the evolution of technology over the decades. Despite the limited time available, I like to share experiences and tips on my blog for anyone interested in history and technology.
-
+My name is Assis Zang and I currently work professionally with the development of support on the .Net platform with SQL Server.
+I also study web development with a focus on Javascript and its frameworks like React, Next.js
+I'm also always working on some layout here and there on the css
