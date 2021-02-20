@@ -1,4 +1,4 @@
-### Hi there 🙋🏻‍♂️
+# Hi there 🙋🏻‍♂️
 
 <!--
 **zangassis/zangassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Assis Zang and I am currently working with systems development on the .Net platform with SQL Server.
+<strong>My name is Assis Zang and I am currently working with systems development on the .Net platform with SQL Server.
 I study web development with a focus on Javascript and its frameworks like React and Next.js.
-I'm also always moving here and there in the css of some layout 👨🏻‍💻
+I'm also always moving here and there in the css of some layout 👨🏻‍💻</strong>
 
 💬 Contact me: assiszang@gmail.com
