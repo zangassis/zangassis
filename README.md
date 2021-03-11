@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <strong>My name is Assis Zang and I am currently working with systems development on the .Net platform with SQL Server.
-I study web development with a focus on Javascript and its frameworks like React and Next.js.
-I'm also always moving here and there in the css of some layout 👨🏻‍💻</strong>
+I am always reading articles on the news of the .Net platform and improving myself professionally 👨🏻‍💻</strong>
 
 <strong>💬 Contact me: assiszang@gmail.com</strong>
