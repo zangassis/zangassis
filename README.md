@@ -20,4 +20,6 @@ I am always reading articles on the news of the .Net platform and improving myse
 
 <strong>📝 Visit my blog: [My Blog](http://assiszang.vercel.app)</strong>
 
+<strong>🌐 My main networks: assiszang@gmail.com</strong>
+
 <strong>💬 Contact me: assiszang@gmail.com</strong>
