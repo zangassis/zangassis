@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/X1hTak9mZoCOoLGfSW/giphy.gif' alt="banner" width="300px" height="200px"></img>
+<img src='https://media.giphy.com/media/X1hTak9mZoCOoLGfSW/giphy.gif' alt="banner" width="600px" height="200px"></img>
 
 
 # Hi there raising_hand_man
