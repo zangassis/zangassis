@@ -1,8 +1,7 @@
-# Hi there 🙋🏻‍♂️
+# Hi there 
 
 <!--
 **zangassis/zangassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,3 +22,5 @@ I am always reading articles on the news of the .Net platform and improving myse
 <strong>🌐 My main networks: [Main Networks](http://zangassis.github.io)</strong>
 
 <strong>💬 Contact me: assiszang@gmail.com</strong>
+
+![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=radical)
