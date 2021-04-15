@@ -1,7 +1,7 @@
-<img src='images/Github_banner.png' alt="banner"></img>
+<img src='https://media.giphy.com/media/X1hTak9mZoCOoLGfSW/giphy.gif' alt="banner"></img>
 
 
-# Hi there 🙋
+# Hi there raising_hand_man
 yy
 <!--
 **zangassis/zangassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
