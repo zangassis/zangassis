@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <strong>My name is Assis Zang and I am working with systems development on the .Net platform with SQL Server.
-I am always reading articles on the news of the .Net platform and improving myself professionally 👨🏻‍💻</strong>
+I am always reading articles on the news of the .Net platform and improving myself professionally</strong>
 
 <strong>📝 Visit my blog: [My Blog](http://assiszang.vercel.app)</strong>
 
