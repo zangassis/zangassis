@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<strong>My name is Assis Zang and I am working with systems development on the .Net platform with SQL Server.
-I am always reading articles on the news of the .Net platform and improving myself professionally</strong>
+Developing applications for me is more than solving problems, it is making the world a better and more beautiful place to live! ✨
+That's why I love what I do, use my knowledge, experience and creativity to build solutions on the .NET platform with relational and non-relational databases.💖
+Writing code is like painting a picture, you should always do your best so that anyone who appreciates it can be positively impacted and transform your life.👨‍💻🎨🖼️
 
 <strong>📝 Visit my blog: [My Blog](http://assiszang.vercel.app)</strong>
 
