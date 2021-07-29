@@ -23,4 +23,6 @@ For me, developing apps is more than solving problems, it's making the world a b
 
 <strong>📝 Visit my blog: [My Blog](http://assiszang.vercel.app)</strong>
 
-![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=radical)
+![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=vue-dark)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangassis&layout=compact&theme=vue-dark)](https://github.com/zangassis/github-readme-stats)-->
+
