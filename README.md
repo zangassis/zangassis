@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-For me, developing apps is more than solving problems, it's making the world a better and more beautiful place to live! ✨ That's why I love what I do, I use my knowledge, experience and creativity to build solutions on the .NET platform with relational and non-relational databases.💖 Writing code is like painting a picture, you should always do your best to positively impact those who appreciate it.👨‍💻🎨🖼️
+For me, developing apps is more than solving problems, it's making the world a better and more beautiful place to live! ✨ 
+That's why I love what I do, I use my knowledge, experience and creativity to build solutions on the .NET platform with relational and non-relational databases.💖 
+
+ ***“Always leave the campground cleaner than you found it”*** - Robert C. Martin (Uncle BOB)
 
 <strong>🌐 My personal website: [Assis Zang](http://zangassis.github.io)</strong>
 
