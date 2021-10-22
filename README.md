@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is Assis Zang. I'm a developer and technology article writer.
+
 For me, developing apps is more than solving problems, it's making the world a better and more beautiful place to live! ✨ 
 That's why I love what I do, I use my knowledge, experience and creativity to build solutions on the .NET platform with relational and non-relational databases.💖 
 
