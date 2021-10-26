@@ -1,6 +1,6 @@
 
 
-# Hi there ⚡
+# Hi there 🐱‍👤
 <!-- <img src='https://media.giphy.com/media/X1hTak9mZoCOoLGfSW/giphy.gif' alt="banner" width="600px" height="200px"></img>
 **zangassis/zangassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
