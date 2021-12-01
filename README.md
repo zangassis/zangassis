@@ -22,7 +22,7 @@ That's why I love what I do, I use my knowledge, experience and creativity to bu
 
  ***“Always leave the campground cleaner than you found it”*** - Robert C. Martin (Uncle BOB)
 
-<strong>🌐 My personal page: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
+<strong>👨‍🎓 My personal page: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
 
 <strong>🚀 My articles in Telerik Blog: [Articles about .NET](https://www.telerik.com/blogs/author/assis-zang)</strong>
 
