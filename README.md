@@ -24,9 +24,11 @@ That's why I love what I do, I use my knowledge, experience and creativity to bu
 
 <strong>🌐 My personal website: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
 
-<strong>💬 Contact me: assiszang@gmail.com</strong>
+<strong>🚀 My articles in Telerik Blog: [Articles about .NET](https://www.telerik.com/blogs/author/assis-zang)</strong>
 
 <strong>📝 Visit my blog: [My Blog](http://zangassisblog.vercel.app)</strong>
+
+<strong>💬 Contact me: assiszang@gmail.com</strong>
 
 ![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=vue-dark)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangassis&layout=compact&theme=vue-dark)](https://github.com/zangassis/github-readme-stats)-->
