@@ -30,8 +30,8 @@ That's why I love what I do, I use my knowledge, experience and creativity to bu
 
 <strong>💬 Contact me: assiszang@gmail.com</strong>
 
-![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=vue-dark)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangassis&layout=compact&theme=vue-dark)](https://github.com/zangassis/github-readme-stats)-->
+<!--![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangassis&layout=compact&theme=vue-dark)](https://github.com/zangassis/github-readme-stats)-->
 
 Watch my contribuition graph get eaten by the snake 🐍
 ![snake gif](https://github.com/zangassis/zangassis/blob/output/github-contribution-grid-snake.svg)
