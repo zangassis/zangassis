@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 **English EN-US**
 
-My name is Assis Zang. I am a developer and writer of technology articles.
+My name is Assis Zang. I am a developer and writer of articles about Microsoft technologies.
 I've been working with .NET for 6 years. I love learning about new technologies, especially in the .NET universe. I also like to help people through my articles.
 You can read my articles on ASP.NET Core and Blazor here [My articles on the Telerik blog](https://www.telerik.com/blogs/author/assis-zang).
 
 **Portuguese PT-BR**
 
-Meu nome é Assis Zang. Sou desenvolvedor e escritor de artigos de tecnologia.
+Meu nome é Assis Zang. Sou desenvolvedor e escritor de artigos sobre tecnologias Microsoft.
 Trabalho com .NET há 6 anos. Adoro aprender sobre novas tecnologias, principalmente no universo .NET. Também gosto de ajudar pessoas através dos meus artigos.
 Você pode ler meus artigos sobre ASP.NET Core e Blazor aqui [Meus artigos no blog da Telerik](https://www.telerik.com/blogs/author/assis-zang).
 
