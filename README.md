@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+English EN-US
 
-My name is Assis Zang. I'm a developer and technology article writer.
+My name is Assis Zang. I am a developer and writer of technology articles.
+I've been working with .NET for 6 years. I love learning about new technologies, especially in the .NET universe. I also like to help people through my articles.
+You can read my articles on ASP.NET Core and Blazor here [My articles on the Telerik blog](https://www.telerik.com/blogs/author/assis-zang).
 
-I love learning about new technologies, especially in the .NET universe.
+Portuguese PT-BR
 
-You can read my articles on ASP.NET Core and Blazor here [My articles in Telerik blog](https://www.telerik.com/blogs/author/assis-zang). Take the opportunity to learn more about Telerik, which has great tools for .NET and Javascript development.
+Meu nome é Assis Zang. Eu sou um desenvolvedor e escritor de artigos de tecnologia.
+Trabalho com .NET há 6 anos. Adoro aprender sobre novas tecnologias, principalmente no universo .NET. Também gosto de ajudar pessoas através dos meus artigos.
+Você pode ler meus artigos sobre ASP.NET Core e Blazor aqui [Meus artigos no blog da Telerik](https://www.telerik.com/blogs/author/assis-zang).
 
 ### My main knowledge:
 ### Technologies
