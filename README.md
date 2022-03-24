@@ -22,7 +22,7 @@ You can read my articles on ASP.NET Core and Blazor here [My articles on the Tel
 
 Portuguese PT-BR
 
-Meu nome é Assis Zang. Eu sou um desenvolvedor e escritor de artigos de tecnologia.
+Meu nome é Assis Zang. Sou desenvolvedor e escritor de artigos de tecnologia.
 Trabalho com .NET há 6 anos. Adoro aprender sobre novas tecnologias, principalmente no universo .NET. Também gosto de ajudar pessoas através dos meus artigos.
 Você pode ler meus artigos sobre ASP.NET Core e Blazor aqui [Meus artigos no blog da Telerik](https://www.telerik.com/blogs/author/assis-zang).
 
