@@ -17,14 +17,28 @@ Here are some ideas to get you started:
 
 My name is Assis Zang. I'm a developer and technology article writer.
 
-For me, developing apps is more than solving problems, it's making the world a better and more beautiful place to live! ✨ 
-That's why I love what I do, I use my knowledge, experience and creativity to build solutions on the .NET platform with relational and non-relational databases.💖 
+I love learning about new technologies, especially in the .NET universe.
 
- ***“Always leave the campground cleaner than you found it”*** - Robert C. Martin (Uncle BOB)
+You can read my articles on ASP.NET Core and Blazor here [My articles in Telerik blog](https://www.telerik.com/blogs/author/assis-zang). Take the opportunity to learn more about Telerik, which has great tools for .NET and Javascript development.
 
-<strong>👨‍🎓 My personal page: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
+### My main knowledge:
+### Technologies
+- .NET 3.1, 3.5, 5.0 6.0
+- C# 10
+- ASP.NET Core
+- Web API's (Rest/SOAP)
+- Microservices
+- Messaging (Google Pubsub, RabbitMQ)
+- CI / CD (Deployment)
 
-<strong>🚀 My articles in Telerik Blog: [Articles about .NET](https://www.telerik.com/blogs/author/assis-zang)</strong>
+### Tools
+- Visual Studio/Code
+- Fiddler/Postman
+- Jenkins
+- Azure DevOps
+
+### My pages
+<strong>👨‍🎓 My resume: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
 
 <strong>📝 Visit my blog: [My Blog](http://zangassisblog.vercel.app)</strong>
 
@@ -33,5 +47,5 @@ That's why I love what I do, I use my knowledge, experience and creativity to bu
 <!--![Assis Zang GitHub stats](https://github-readme-stats.vercel.app/api?username=zangassis&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangassis&layout=compact&theme=vue-dark)](https://github.com/zangassis/github-readme-stats)-->
 
-Watch my contribuition graph get eaten by the snake 🐍
-![snake gif](https://github.com/zangassis/zangassis/blob/output/github-contribution-grid-snake.svg)
+<!--Watch my contribuition graph get eaten by the snake 🐍
+![snake gif](https://github.com/zangassis/zangassis/blob/output/github-contribution-grid-snake.svg)-->
