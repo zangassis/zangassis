@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💜 I love programming in .NET, I have been doing it for the last 6 years
-- 📚 I'm currently learning about Software Architecture, Unit Testing, and Java
+- 📚 I'm currently learning about Software Architecture, Unit Testing, DDD, Extreme Programming (XP) and Java
 - ✍️ I write articles for the Telerik Blog at https://www.telerik.com/blogs/author/assis-zang
 - ✍️ I also write on Dev.to at https://dev.to/zangassis
 - 🔭 You can find me on Linkedin https://www.linkedin.com/in/assis-zang/
