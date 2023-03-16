@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 📚 I'm currently learning about Software Architecture, Unit Testing, DDD, Extreme Programming (XP) and Java
 - ✍️ I write articles for the Telerik Blog at www.telerik.com/blogs/author/assis-zang
 - ✍️ I also write on Dev.to at www.dev.to/zangassis
-- 🔭 You can find me on Linkedin www.linkedin.com/in/assis-zang/
-- 👩‍💻 My personal: website www.assiszang.com
+- 🔭 You can find me on Linkedin www.linkedin.com/in/assis-zang
+- 👩‍💻 My personal website: www.assiszang.com
 <!--
 <strong>👨‍🎓 My resume: [Assis Zang](https://zangassis-profile.vercel.app/)</strong>
 -->
