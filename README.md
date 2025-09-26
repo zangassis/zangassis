@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💜 I love programming in .NET, I have been doing it for the last 8 years
+- 💜 I love programming in .NET, I have been doing it for the last 9 years
 - 📚 I'm currently diving into software architecture and DDD
 - ✍️ I write articles for the Telerik Blog at www.telerik.com/blogs/author/assis-zang
 - ✍️ I also write on Dev.to at www.dev.to/zangassis
